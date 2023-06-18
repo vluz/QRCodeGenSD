@@ -1,10 +1,8 @@
 # QR Code Gen with Stable Diffusion
 ### A gradio app that uses a stable diffusion model to generate novel QR codes
 
-**Takes a long time to run the first time as it has to download a large amount of files**
-
 This is a hevily modified version of the offician HF app.
-
+<br>
 Focus has been put into adding a useful model, 
 <br>
 modifying pipe for low vram use and clean up the interface.
@@ -31,7 +29,11 @@ To run do:<br>
 python qrgen.py
 ``` 
 
-App run on a browser at http://127.0.0.1:7860
+***Takes a long time to run the first time as*** 
+<br>
+***it has to download a large amount of files***
+
+App runs on a browser at http://127.0.0.1:7860
 
 To exit the virtual environment do:
 ```
@@ -40,4 +42,7 @@ venv\Scripts\deactivate
 
 <hr>
 
-Example outputs:
+Example output:
+<br>
+![Image](image.jpg?raw=true "Image")
+
