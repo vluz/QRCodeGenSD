@@ -1,4 +1,4 @@
-# QR Code Gen with Stable Diffusion
+# QR Code Generation with Stable Diffusion
 ### A gradio app that uses a stable diffusion model to generate novel QR codes
 
 This is a hevily modified version of the offician HF app.
