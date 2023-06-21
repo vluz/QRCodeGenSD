@@ -6,6 +6,8 @@ This is a hevily modified version of the offician HF app.
 Focus has been put into adding a useful model, 
 <br>
 modifying pipe for low vram use and clean up the interface.
+<br>
+TODO: Implement -1 in seed input as torch random seed
 
 <hr>
 
