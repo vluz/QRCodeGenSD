@@ -44,5 +44,10 @@ venv\Scripts\deactivate
 
 Example output:
 <br>
-![Image](image.jpg?raw=true "Image")
+![Image1](images/image1.jpg?raw=true "Image 1")
+![Image2](images/image2.jpg?raw=true "Image 2")
+![Image3](images/image3.jpg?raw=true "Image 3")
+![Image4](images/image4.jpg?raw=true "Image 4")
+![Image5](images/image5.jpg?raw=true "Image 5")
+![Image6](images/image6.jpg?raw=true "Image 6")
 
